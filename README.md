@@ -5,3 +5,4 @@
 - [ ] Create a New Repository
 - [ ] Add a README file
 - [ ] Make my first commit
+- [ ] Push changes to GitHub
